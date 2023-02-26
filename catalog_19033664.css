@@ -1,0 +1,94 @@
+
+
+store {
+    display:block;
+    width: auto; 
+    height: 250px;
+    padding: 10px; 
+    font-size: 10px; 
+    margin-bottom: 10px;
+    border-bottom: 2px solid white;
+}
+
+storeName {
+    display: block;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    text-align: left;
+    color: white;
+    font-size: 60px;
+}
+
+storeName:hover{
+    color:#f5d9af;
+    transition:all .5s;
+}
+
+
+musicStore {
+    background: url(image/bg.jpg) no-repeat center center/cover;
+    background-attachment: fixed;
+    height:88vh
+    
+}
+
+address,telephoneNumber,website,logo {
+    display: block;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    padding-right: 30px;
+    margin-top: 5px;
+    color: white;
+    font-size: 15px;
+}
+
+address {
+    margin-top: 35px;
+}
+
+website {
+    margin-bottom: 25px;
+}
+
+logo {
+    background-image: url('image/logo1.png');
+    background-repeat: no-repeat;
+    position:absolute;
+    height: 300px;
+    width: 800px;
+    margin-left: 1200px;
+
+}
+
+song {
+    display: block;
+    border-bottom: 1px solid rgb(17, 16, 16);
+    width: 800px;
+    height: auto;
+    position: relative;
+    margin-block: 30px;
+}
+
+name{
+    display: block;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    color: rgb(91, 90, 92);
+    font-size: 36px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+
+name:hover{
+    color:#f5d9af;
+    transition:all .5s;
+}
+
+artist, album, genre, nameOfDirector, producer, writers, releaseYear, recordLabel, length, studio, musicVideo, nameOfDirector{
+    display: block;
+    font-size: 24px;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}

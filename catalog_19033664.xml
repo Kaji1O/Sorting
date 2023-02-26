@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE musicStore SYSTEM "catalog_19033664.dtd">
+<?xml-stylesheet type="text/css" href="catalog_19033664.css"?>
+<musicStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_19033664.xsd">
+    <store>
+        <logo></logo>
+        <storeName panID="007"> The Hits </storeName>
+        <address country="Nepal">Address: Boudha, Kathmandu</address>
+        <telephoneNumber>Phone number: 01-4451340</telephoneNumber>
+        <website>website: https://www.theHits.com</website>
+    </store>
+     <song ID="1">
+        <name>Name: Rolling in the Deep</name> 
+        <genre>Genre: Pop</genre>
+        <producer>Producer: Paul Epworth</producer>
+        <writers numberofwriters="2">Writer: Paul Epworth, Adele Adkins</writers>
+        <artist nation="England">Artist: Adele</artist>
+        <album>Album: 21</album>
+        <releaseYear month="November">Release Year: 2011</releaseYear> 
+        <nameOfDirector>Name of Director: Sam Brown</nameOfDirector>
+        <recordLabel>Record Label: XL</recordLabel>
+        <length>Length: 3:48</length>
+     </song>
+     <song ID="2">
+        <name>Name: Call Me Maybe</name> 
+        <genre>Genre: Pop</genre>
+        <producer>Producer: Josh Ramsay</producer>
+        <writers numberofwriters="3">Writer: Carly Rae Jepsen, Josh Ramsay, Tavish Crowe</writers>
+        <artist nation="Canada">Artist: Carly Rae Jepsen</artist>
+        <album>Album: Kiss</album>
+        <releaseYear month="September">Release Year: 2012</releaseYear> 
+        <nameOfDirector>Name of Director: Ben Knechtel</nameOfDirector>
+        <length>Lenght: 3:13</length>
+        <studio>Studio: Umbrella</studio>
+     </song>
+     <song ID="3">
+        <name>Name: Get Lucky</name> 
+        <genre>Genre: Disco</genre>
+        <producer>Producer: Thomas Bangalter, GuyManuel de Homem-Christo</producer>
+        <writers numberofwriters="4">Writer: Nile Rodgers, Guy-Manuel de Homem-Christo, Pharrell Williams, Thomas Bangalter</writers>
+        <artist nation="France">Artist: Daft Punk, Pharrell Williams, Nile Rodgers </artist>
+        <album>Album: Random Access Memories</album>
+        <releaseYear month="April">Release Year: 2013</releaseYear> 
+        <recordLabel>Record Label: Daft Lige</recordLabel>
+        <length>Lenght: 4:07</length>
+    </song>
+    <song ID="4">
+        <name>Name: Counting Stars</name> 
+        <genre>Genre: Folk pop, pop rock</genre>
+        <producer>Producer: Ryan Tedder, Noel Zancanella</producer>
+        <writers numberofwriters="1">Writer: Ryan Tedder</writers>
+        <artist nation="USA">Artist: OneRepublic </artist>
+        <album>Album: NOW: Los Éxitos del Año 2014</album>
+        <releaseYear month="June">Release Year: 2014</releaseYear> 
+        <nameOfDirector>Name of Director: James Lees</nameOfDirector>
+        <recordLabel>Record Label: Mosley</recordLabel>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=hT_nvWreIhg</musicVideo>
+    </song>
+    <song ID="5">
+        <name>Name: Alright</name> 
+        <genre>Genre: Contemporary Soul, Hip-Hop/Rap</genre>
+        <producer>Producer: Pharrell Williams</producer>
+        <writers numberofwriters="1">Writer: Kendrick Lamar</writers>
+        <artist nation="USA">Artist: Kendrick Lamar</artist>
+        <album>Album: To Pimp a Butterfly</album>
+        <releaseYear month="June">Release Year: 2015</releaseYear> 
+        <nameOfDirector>Name of Director: Colin Tilley</nameOfDirector>
+        <recordLabel>Record Label: Top Dawg, Aftermath, Interscope</recordLabel>
+        <length>Length: 3:39</length>
+    </song>
+    <song ID="6">
+        <name>Name: See You Again</name> 
+        <genre>Genre: Hip hoppop-rap</genre>
+        <producer>Producer: DJ Frank E, Charlie Puth, Andrew Cedar</producer>
+        <writers numberofwriters="7">Writer: Charlie Puth, Cameron Thomaz, Andrew Cedar, Justin Franks, Dann Hume, Josh Hardy, Phoebe Cockburn</writers>
+        <artist nation="USA">Artist: Wiz Khalifa, Charlie Puth</artist>
+        <album>Album: Furious 7: Original Motion Picture Soundtrack</album>
+        <releaseYear month="March">Release Year: 2015</releaseYear> 
+        <nameOfDirector>Name of Director: Marc Klasfeld</nameOfDirector>
+        <length>Length: 3:49</length>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=RgKAFK5djSk</musicVideo>
+    </song>
+    <song ID="7">
+        <name>Name: Closer</name> 
+        <genre>Genre: Electronic dance music, Dance/Electronic</genre>
+        <producer>Producer: The Chainsmokers</producer>
+        <writers numberofwriters="6">Writer: Andrew Taggart, Ashley Frangipane, Shaun Frank, Frederic Kennett, Isaac Slade, Joe King</writers>
+        <artist nation="USA">Artist: The Chainsmokers, Halsey</artist>
+        <album>Album: Collage</album>
+        <releaseYear month="July">Release Year: 2016</releaseYear> 
+        <nameOfDirector>Name of Director: Dano Cerny</nameOfDirector>
+        <recordLabel>Record Label: Disruptor</recordLabel>
+        <length>Lenght: 4:04</length>
+    </song>
+    <song ID="8">
+        <name>Name: Shape of You</name> 
+        <genre>Genre: Pop</genre>
+        <producer>Producer: Ed Sheeran, Steve Mac</producer>
+        <writers numberofwriters="1">Writer: Ed Sheeran</writers>
+        <artist nation="England">Artist: Ed Sheeran</artist>
+        <album>Album: Divide</album>
+        <releaseYear month="January">Release Year: 2017</releaseYear> 
+        <nameOfDirector>Name of Director: Jason Koenig</nameOfDirector>
+        <studio>Studio: Rokstone (London)Gingerbread Man (Suffolk and London)</studio>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=JGwWNGJdvx8</musicVideo>
+    </song>
+    <song ID="9">
+        <name>Name: Either Way</name> 
+        <genre>Genre: Country music</genre>
+        <producer>Producer: Dave Cobb, Chris Stapleton </producer>
+        <writers numberofwriters="3">Writer: Chris Stapleton, Tim James, Kendell Marvel</writers>
+        <artist nation="USA">Artist: Chris Stapleton</artist>
+        <album>Album: From A Room: Volume 1</album>
+        <releaseYear month="May">Release Year: 2017</releaseYear> 
+        <length>Length: 4:08 </length>
+        <studio>Studio: RCA Studio A</studio>
+    </song>
+    <song ID="10">
+        <name>Name: Girls LIke You</name> 
+        <genre>Genre: Pop rock</genre>
+        <producer>Producer: Cirkut, Jason Evigan</producer>
+        <writers numberofwriters="6">Writer: Adam Levine, Henry Walter, Belcalis Almanzar, Brittany Talia Hazzard, Jason Evigan, Gian Stone </writers>
+        <artist nation="USA">Artist: Maroon 5, Cardi B</artist>
+        <album>Album: Red Pill Blues</album>
+        <releaseYear month="May">Release Year: 2018</releaseYear> 
+        <nameOfDirector>Name of Director: David Dobkin</nameOfDirector>
+        <length>Length: 3:35</length>
+        <studio>Studio: Conway</studio>
+    </song>
+    <song ID="11">
+        <name>Name: Bad Guy</name> 
+        <genre>Genre: Alternative/Indie</genre>
+        <producer>Producer: Finneas O'Connell</producer>
+        <writers numberofwriters="2">Writer: Billie Eilish O'Connell, Finneas O'Connell</writers>
+        <artist nation="USA">Artist: Billie Eilish</artist>
+        <album>Album: When We All Fall Asleep, Where Do We Go?</album>
+        <releaseYear month="March"> Release Year: 2019</releaseYear> 
+        <nameOfDirector>Name of Director: Dave Meyers</nameOfDirector>
+        <recordLabel>Record Label: Darkroom</recordLabel>
+        <length>Length: 3:14</length>
+    </song>
+    <song ID="12">
+        <name>Name: Blinding Lights</name> 
+        <genre>Genre: RnB/Soul</genre>
+        <producer>Producer: Max Martin, Oscar Holter, The Weeknd</producer>
+        <writers numberofwriters="1">Writer: Abel Tesfaye</writers>
+        <artist nation="Canada">Artist: The Weeknd</artist>
+        <album>Album: The Highlights</album>
+        <releaseYear month="November">Release Year: 2020</releaseYear> 
+        <nameOfDirector>Name of Director: Anton Tammi</nameOfDirector>
+        <recordLabel>Record Label: XO Republic</recordLabel>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=4NRXx6U8ABQ</musicVideo>
+    </song>
+    <song ID="13">
+        <name>Name: Fallen</name> 
+        <genre>Genre: Folk</genre>
+        <producer>Producer: Gert Taberner</producer>
+        <writers numberofwriters="1">Writer: Gert Taberner</writers>
+        <artist nation="England">Artist: Gert Taberner</artist>
+        <album>Album: Fallen</album>
+        <releaseYear month="October">Release Year: 2016</releaseYear> 
+        <length>Length: 5:25</length>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=aCSs8gD6ZXs</musicVideo>
+    </song>
+    <song ID="14">
+        <name>Name: Cold Mess</name> 
+        <genre>Genre: Folk</genre>
+        <producer>Producer: Prateek Kuhad</producer>
+        <writers numberofwriters="1">Writer: Prateek Kuhad</writers>
+        <artist nation="India">Artist: Prateek Kuhad</artist>
+        <album></album>
+        <releaseYear month="December">Release Year: 2018</releaseYear> 
+        <nameOfDirector>Name of Director: Dar Gai</nameOfDirector>
+        <length>Length: 6:07</length>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=Il7Nv270zNk</musicVideo>
+    </song>
+    <song ID="15">
+        <name>Name: Love Yourz</name> 
+        <genre>Genre: Conscious hip hop</genre>
+        <producer>Producer: Illmind, Cardiak, CritaCal</producer>
+        <writers numberofwriters="1">Writer: Jermaine Cole</writers>
+        <artist nation="USA">Artist: J Cole</artist>
+        <album>Album: 2014 Forest Hills Drive</album>
+        <releaseYear month="December">Release Year: 2016</releaseYear> 
+        <recordLabel>Record Label: Columbia</recordLabel>
+        <length>Length: 3:31</length>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=Ka4BxFizU7I</musicVideo>
+    </song>
+    <song ID="16">
+        <name>Name: Ram Saili</name> 
+        <genre>Genre: Folk</genre>
+        <producer>Producer: Bipul Chettri</producer>
+        <writers numberofwriters="1">Writer: Nirendra Mohan Chettri</writers>
+        <artist nation="Nepal">Artist: bipul Chettri</artist>
+        <album>Album: Sketches of Darjeeling</album>
+        <releaseYear month="September">Release Year: 2015</releaseYear> 
+        <length>Length: 3:19</length>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=ENVW3uZ3a-4</musicVideo>
+    </song>
+    <song ID="17">
+        <name>Name: kehi Mitho Baat Gara</name> 
+        <genre>Genre: Folk</genre>
+        <producer>Producer: Narayan Gopal</producer>
+        <writers numberofwriters="1">Writer: Kali Prasad Rijal</writers>
+        <artist nation="Nepal">Artist: Narayan Gopal</artist>
+        <album>Album: Geetiyatra </album>
+        <releaseYear month="October">Release Year: 1988</releaseYear> 
+        <length>Length: 5:29</length>
+        <musicVideo>Music Video: https://www.youtube.com/watch?v=D-mERpuyZV8</musicVideo>
+    </song>
+
+</musicStore>

@@ -1,0 +1,33 @@
+
+    <!ELEMENT musicStore (store,song+)>
+    <!ELEMENT store (logo, storeName, address, telephoneNumber,website)>
+    <!ELEMENT song (name, genre, producer, writers, artist, album, releaseYear, nameOfDirector?, recordLabel?, length?, studio?, musicVideo?)>
+
+    <!ELEMENT storeName (#PCDATA)>
+    <!ELEMENT address (#PCDATA)>
+    <!ELEMENT telephoneNumber (#PCDATA)>
+    <!ELEMENT website (#PCDATA)>
+    <!ELEMENT logo (#PCDATA)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT artist (#PCDATA)>
+    <!ELEMENT album (#PCDATA)>
+    <!ELEMENT genre (#PCDATA)>
+    <!ELEMENT producer (#PCDATA)>
+    <!ELEMENT writers (#PCDATA)>
+    <!ELEMENT releaseYear (#PCDATA)>
+    <!ELEMENT nameOfDirector (#PCDATA)>
+    <!ELEMENT recordLabel (#PCDATA)>
+    <!ELEMENT length (#PCDATA)>
+    <!ELEMENT studio (#PCDATA)>
+    <!ELEMENT musicVideo (#PCDATA)>
+
+
+    <!ATTLIST storeName panID CDATA #REQUIRED>
+    <!ATTLIST address country CDATA #FIXED "Nepal">
+    <!ATTLIST song ID CDATA #REQUIRED>
+    <!ATTLIST artist nation (England | USA | Canada | France | India | Nepal) #IMPLIED>
+    <!ATTLIST writers numberofwriters (1 | 2 | 3| 4| 6 | 7) #IMPLIED>
+    <!ATTLIST releaseYear month (January | March | April | May | June | July | September | October | November | December) #IMPLIED>
+
+   <!ATTLIST musicStore xmlns:xsi CDATA #REQUIRED>
+   <!ATTLIST musicStore xsi:noNamespaceSchemaLocation CDATA #REQUIRED>
